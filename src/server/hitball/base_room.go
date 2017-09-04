@@ -14,7 +14,7 @@
 package hitball
 
 import (
-	"github.com/liangdas/mqant/module"
+	"github.com/GodSlave/mqant/module"
 	"sync"
 	"fmt"
 )

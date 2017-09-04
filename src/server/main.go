@@ -1,14 +1,14 @@
 package main
 
 import (
-	"github.com/liangdas/mqant"
+	"github.com/GodSlave/mqant"
 	"server/chat"
 	"server/gate"
 	"server/login"
 	"server/hitball"
 	"server/user"
 	"webapp"
-	"github.com/liangdas/mqant/module/modules"
+	"github.com/GodSlave/mqant/module/modules"
 	//"server/tracing"
 	"sourcegraph.com/sourcegraph/appdash"
 	appdashtracer "sourcegraph.com/sourcegraph/appdash/opentracing"

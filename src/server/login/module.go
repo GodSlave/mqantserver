@@ -5,10 +5,10 @@ package login
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/gate"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/module/base"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/gate"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/module/base"
 	"time"
 	"math/rand"
 )

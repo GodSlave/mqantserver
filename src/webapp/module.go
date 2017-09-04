@@ -4,13 +4,13 @@
 package webapp
 
 import (
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/module"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/module"
 	"github.com/gorilla/mux"
 	"net/http"
 	"net"
-	"github.com/liangdas/mqant/module/base"
+	"github.com/GodSlave/mqant/module/base"
 )
 
 var Module = func() *Web {

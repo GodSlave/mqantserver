@@ -15,7 +15,7 @@ package hitball
 
 import (
 	"github.com/yireyun/go-queue"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 	"sync"
 	"reflect"
 	"fmt"

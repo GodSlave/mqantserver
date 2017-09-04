@@ -16,10 +16,10 @@ import (
 	"math/rand"
 	"time"
 	"encoding/json"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/gate"
 	"github.com/yireyun/go-queue"
 	"fmt"
-	"github.com/liangdas/mqant/module"
+	"github.com/GodSlave/mqant/module"
 	"server/hitball/objects"
 )
 var(

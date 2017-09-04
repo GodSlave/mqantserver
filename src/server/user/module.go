@@ -5,9 +5,9 @@ package user
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/module/base"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/module/base"
 )
 
 var Module = func() module.Module {

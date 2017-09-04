@@ -5,12 +5,12 @@ package gate
 
 import (
 	"fmt"
-	"github.com/liangdas/mqant/conf"
-	"github.com/liangdas/mqant/gate/base"
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/module"
-	"github.com/liangdas/mqant/gate"
-	"github.com/liangdas/mqant/gate/base/mqtt"
+	"github.com/GodSlave/mqant/conf"
+	"github.com/GodSlave/mqant/gate/base"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/module"
+	"github.com/GodSlave/mqant/gate"
+	"github.com/GodSlave/mqant/gate/base/mqtt"
 )
 
 var Module = func() module.Module {

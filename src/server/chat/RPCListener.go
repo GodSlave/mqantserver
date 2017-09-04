@@ -14,10 +14,10 @@
 package chat
 
 import (
-	"github.com/liangdas/mqant/log"
-	"github.com/liangdas/mqant/rpc"
-	"github.com/liangdas/mqant/rpc/pb"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/log"
+	"github.com/GodSlave/mqant/rpc"
+	"github.com/GodSlave/mqant/rpc/pb"
+	"github.com/GodSlave/mqant/gate"
 	"fmt"
 )
 

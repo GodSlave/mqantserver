@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"fmt"
 	"io/ioutil"
-	"github.com/liangdas/mqant/log"
+	"github.com/GodSlave/mqant/log"
 	"net"
 	"net/http"
 	"net/url"

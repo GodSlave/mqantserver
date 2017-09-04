@@ -15,7 +15,7 @@ package objects
 import (
 	"math"
 	"time"
-	"github.com/liangdas/mqant/gate"
+	"github.com/GodSlave/mqant/gate"
 )
 
 type Player struct {
